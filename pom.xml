@@ -19,7 +19,7 @@
 	</parent>
 	
 	<properties>
-                <sonar.projectKey>belt-2</sonar.projectKey>
+          <sonar.projectKey>belt-2</sonar.projectKey>
         </properties>
 
 	<properties>
